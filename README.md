@@ -1,9 +1,9 @@
 # Fidelity-online Brokerage
 Fidelity  Investment is a financial service corporation that has hugely innovated with an online brokerage service offered at low cost and made it easy for clients to earn interest and make profit a very low costs.
 "Fidelity is designed to serve the vast majority of individual investors. For the average, buy-and-hold investor, Fidelity's well-rounded platform offers a wide selection of tools, research, and resources coupled with easy order entry. For more active investors and full-on traders, Fidelity offers Active trader Pro, a Downloadable program with streaming real-time data and a customizable trading interface. despite covering these two broad bases quite toroughly, it is important to note that Fidelity does not currently offer commodities or futures options. 
-## Pros
+
 The company's platfrom offers excellent trade execution. The company has tuned its trade execution algorithms to emphasize price improvement and to avoid payment for order flow with 96% of orders for Fidelity customers executed on average at a better price than national best bid or offer. more of its advantages is the extensive research and asset screeners that help customers narrow down investing choices. Moreover, uninvested cash is automatically swept into a money market fund, and then pulled out and made available for trading when necessary. Flexible news feed which can be sorted by watchlist or holdings and updates in real time. The news feeds include global sources as well as premuim U.S.-based feeds.
-### Cons
+
 There are however little inconvenients noted by clients. 
 Customers may have to use multiple platforms to utilize prefered tools. Options-specific tools abounds on Active trader Pro, but fundemental research for equities is mostly available only on the website.
 Non-U.S. Citizens or residents cannot oopen open an account, which can be be seen as an issue for globak readers.
